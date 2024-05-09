@@ -1,0 +1,12 @@
+.splide{
+    min-width: 200px;
+    max-width: 400px;
+    height: 350px;
+
+}
+.splide__slide{
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
