@@ -30,4 +30,7 @@
 }
 .prodinfo__btnbuy{
     width: 100%;
+    background-color: lightblue;
+    border-radius: 10px;
+    border: 1px;
 }
